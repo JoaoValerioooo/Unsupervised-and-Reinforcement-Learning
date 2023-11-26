@@ -1,0 +1,22 @@
+Unsupervised and Reinforcement Learning
+Practical Work 1: An extended version of the k-means method for overlapping clustering
+João Valério
+joao.agostinho@estudiantat.upc.edu
+09/05/2023
+
+Reuters Results:
+
+Algorithm      Reuters-1    Reuters-2    Reuters-3
+-----------  -----------  -----------  -----------
+KM              0.294648     0.257549     0.327774
+FKM             0.412023     0.372632     0.297069
+OKM             0.434022     0.530041     0.395516
+
+
+Genetic Results:
+
+Algorithm      Precision     Recall    F-Measure
+-----------  -----------  ---------  -----------
+KM              0.813047  0.077833      0.142123
+FKM             0.781834  0.239029      0.362614
+OKM             0.784049  0.687308      0.731901
